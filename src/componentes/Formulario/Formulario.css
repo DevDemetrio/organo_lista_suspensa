@@ -1,0 +1,14 @@
+.formulario-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 80px 50px;
+  gap: 20px;
+}
+.formulario-container .formulario {
+  background: #f7f7f7;
+  box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 20px;
+  flex: 1;
+  padding: 36px 64px;
+}
